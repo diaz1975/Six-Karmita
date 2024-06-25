@@ -1,5 +1,5 @@
 {
-  "name": "Sumi-Sakurasawa",
+  "name": "Six-Karmita",
   "version": "5.0.0",
   "description": "Simple WhatsApp Bot Multi Device",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/DanielDiod/Sumi-Sakurasawa",
   "author": {
-    "name": "DanielDiod"
+    "name": "DiazMod"
   },
   "repository": {
     "type": "git",
