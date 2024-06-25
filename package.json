@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/DanielDiod/Sumi-Sakurasawa",
+  "homepage": "https://github.com/diaz1975/Six-Karmita",
   "author": {
     "name": "DiazMod"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielDiod/Sumi-Sakurasawa.git"
+    "url": "git+https://github.com/diaz1975/Six-Karmita.git"
   },
   "bugs": {
-    "url": "https://github.com/DanielDiod/Sumi-Sakurasawa/issues"
+    "url": "https://github.com/diaz1975/Six-Karmita/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
